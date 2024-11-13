@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EventDicoding</string>
+    <string name="event_image">Event Name</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="event_image1">Event Image</string>
+    <string name="register">Register</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="hello_favorite">Ini halaman Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="todo">TODO</string>
+    <string name="tombol_favorit">tombol favorit</string>
+
+</resources>

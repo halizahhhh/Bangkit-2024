@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyFlexibleFragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_profile">This is Activity Profile</string>
+    <string name="this_category">This is Fragment Category</string>
+    <string name="category_lifestyle">To Fragment Lifestyle</string>
+    <string name="category_name">Category Name</string>
+    <string name="category_description">Category Description</string>
+    <string name="to_profile">To the Activity Profile Page</string>
+    <string name="show_dialog">Show a Dialog</string>
+    <string name="hello_home_fragment">Hello This is Home Fragment</string>
+    <string name="to_category">To Fragment Category</string>
+    <string name="question_nct">Who are the NCT members from China?</string>
+    <string name="huang_renjun">Huang Renjun</string>
+    <string name="zhong_chenle">Zhong Chenle</string>
+    <string name="qian_kun">Qian Kun</string>
+    <string name="park_jisung">Park Jisung</string>
+    <string name="choose">Choose</string>
+    <string name="close">Close</string>
+</resources>

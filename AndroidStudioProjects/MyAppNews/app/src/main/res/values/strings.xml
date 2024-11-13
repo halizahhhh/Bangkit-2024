@@ -1,0 +1,241 @@
+<resources>
+    <string name="app_name">MyApp-News</string>
+
+    <string name="about_page">About Page</string>
+    <string name="full_name">Siti Nurhalizah</string>
+    <string name="email">a156b4kx4176@bangkit.academy</string>
+
+    <string name="news_title">Judul Berita</string>
+    <string name="description_news">Deskripsi Berita</string>
+
+    <string-array name="data_title">
+        <item>Kabar Gembira bagi Pencinta Kpop! YG Entertainment Umumkan Blackpink Akan Comeback dan Tur Dunia Pada 2025  </item>
+        <item>Jaehyun NCT Mulai Wamil 4 November 2024</item>
+        <item>GFRIEND Reuni 2025, Kembali ke Source Music</item>
+        <item>Rose Blackpink Gabung Label Coldplay-Bruno Mars!</item>
+        <item>BabyMonster menjadi Girl Group Kpop Pertama yang Tampil di Formula 1 Grand Prix Singapura</item>
+        <item>ADOR Tolak Permintaan NewJeans untuk Angkat Kembali Min Hee Jin sebagai CEO</item>
+        <item>Kabar Mengejutkan Dari THE BOYZ, 11 Member Kompak Tak Memperpanjang Kontrak</item>
+        <item>Tanggapan SM Entertainment Soal Rumor Hengkangnya Joy Red Velvet dari Agensi</item>
+        <item>Jennie BLACKPINK Akhirnya Umumkan Tanggal Comeback 11 Oktober 2024</item>
+        <item>Profil Irene Suwandi, TikToker Indonesia yang Siap Debut jadi Idol Kpop</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Blackpink akan comeback pada 2025 dengan musik baru dan tur dunia, setelah setahun berfokus pada proyek solo.</item>
+        <item>Jaehyun, member NCT, akan memulai wajib militer pada 4 November 2024 dengan bergabung di band militer.</item>
+        <item>GFRIEND akan reuni pada Januari 2025 untuk merayakan 10 tahun debut mereka.</item>
+        <item>Rosé BLACKPINK resmi bergabung dengan Atlantic Records, label di bawah Warner Music Group, yang akan menangani promosi globalnya di AS.</item>
+        <item>BabyMonster menjadi girl group K-Pop pertama yang tampil di Formula 1 Grand Prix Singapura pada 21 September 2024.</item>
+        <item>Agensi ADOR menolak permintaan NewJeans untuk mengembalikan Min Hee Jin sebagai CEO, namun mereka tetap menawarinya posisi sebagai anggota dewan direksi dan produser NewJeans selama lima tahun.</item>
+        <item>THE BOYZ dikabarkan tidak memperpanjang kontrak dengan IST Entertainment setelah 7 tahun debut dan sedang mencari agensi baru.</item>
+        <item>Joy dari Red Velvet sedang mendiskusikan perpanjangan kontrak dengan SM Entertainment.</item>
+        <item>Jennie BLACKPINK mengumumkan comeback solonya pada 11 Oktober 2024, bekerja sama dengan Columbia Records.</item>
+        <item>Irene Suwandi, TikToker asal Indonesia, siap debut sebagai idol K-pop.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/453/2024/09/26/Blackpink-1412313657.jpg</item>
+        <item>https://cdn0-production-images-kly.akamaized.net/VOX2PoZVXZ-5OOstKfroWWR-Yyk=/640x853/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4953596/original/015764600_1727331322-Jaehyun_73a8d0.jpeg</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2020/07/02/teaser-foto-gfriend-song-of-the-sirens-14.jpeg?w=700&amp;q=90</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2024/09/25/rose-blackpink-di-paris-fashion-week-2024_34.jpeg?w=700&amp;q=90</item>
+        <item>https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/01/2024/09/22/IMG_5287-3499969219.jpg</item>
+        <item>https://asset.kompas.com/crops/SxjntOHJCxISSDhamNYeIVHvZYY=/0x0:1023x682/750x500/data/photo/2023/03/22/641a4e96341f7.jpg</item>
+        <item>https://asset-2.tstatic.net/mataraman/foto/bank/images/the-boyz-pindah-agensi.jpg</item>
+        <item>https://cdn1-production-images-kly.akamaized.net/-Vnhhxdifarv_IbeXxz7-Z_eBg8=/640x853/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4688194/original/099417200_1702696892-Screenshot_20231216_083144_3.jpg</item>
+        <item>https://cdn1-production-images-kly.akamaized.net/nbZ4vUD9VGOCMz_HTE_SlJQYatc=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4859620/original/098439500_1718077219-Cuplikan_layar_2024-06-11_102557.jpg</item>
+        <item>https://beritajatim.com/cdn-cgi/image/width=900,height=600,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2024/04/irene.webp</item>
+    </string-array>
+
+    <string-array name="data_detail">
+        <item>Indonesia juga menjadi salah satu negara yang dikunjungi BLACKPINK di kawasan Asia yakni pada 11 dan 12 Maret 2023 di
+            Stadion Utama Gelora Bung Karno (SUGBK).Kemudian, Blackpink akhirnya menutup rangkaian konser tur Born Pink pada 17 September
+            2023 dengan menggelar konser di Gocheok Sky Dome di Seoul, Korea Selatan. Untuk diketahui, Blackpink merupakan salah satu grup
+            idola perempuan yang berhasil mencetak rekor penayangan terbanyak video musik untuk lagu-lagu mereka. Girl group beranggotakan
+            Jennie, Jisoo, Rose, dan Lisa tersebut akan beraktivitas kembali sebagai grup setelah satu tahun disibukkan dengan proyek
+            masing-masing di agensi barunya.Pada Juli 2024, pendiri YG Entertainment Yang Hyun-suk mengatakan, Blackpink jadi salah satu
+            grup yang akan sibuk dengan berbagai aktivitas tahun depan. Namun demikian, Yang Hyun Suk masih belum membeberkan secara detail
+            terkait kegiatan yang dimaksud adalah comeback dengan musik baru dan tur dunia. Comeback mendatang ini akan berjarak 3 tahun
+            dari perilisan album terakhir Blackpink. Mereka terakhir merilis album bertajuk Born Pink pada 2022 lalu. Rencana tur dunia
+            2025 juga diumumkan lebih dari satu tahun setelah BLACKPINK menyelesaikan rangkaian tur dunia bertajuk Born Pink World Tour.
+            Tur itu berlangsung sejak 15 Oktober 2022 dan berakhir pada 17 September 2023. Blackpink memulai turnya di Seoul, Korea Selatan,
+            Amerika Serikat, Kanada, dan sejumlah negara Eropa.
+        </item>
+        <item>Member grup Kpop NCT, Jaehyun, bakal memulai wajib militer (wamil) pada 4 November 2024. Ia akan bergabung dengan band
+            militer. Agensi SM Entertainment mengatakan, jadwal keberangkatan Jaehyun diumumkan setelah artisnya mendapatkan surat
+            penerimaan dari Administrasi Tenaga Kerja Militer pada Kamis (26/9/2024). Jaehyun menjadi anggota kedua NCT yang menjalani
+            wamil setelah Taeyong. "Jaehyun NCT mendaftar ke band militer dan menerima pemberitahuan penerimaan dari Administrasi Tenaga
+            Kerja Militer hari ini," kata SM Entertainment. Jaehyun kemudian dijadwalkan untuk mendaftar sebagai tentara tugas aktif
+            pada 4 November untuk memenuhi tugas wajibnya. Lebih lanjut, SM Entertainment tak mengungkap tempat pelatihan dasar militer
+            atau pos penempatan Jaehyun saat menjalankan tugasnya. Agensi memastikan bawah tidak akan ada gelar acara saat Jaehyun
+            memulai wamil. Selain itu, juga tidak akan ada acara resmi pada hari masuknya Jaehyun ke pusat pelatihan rekrutmen. Hal
+            tersebut merupakan upaya untuk mencegah kecelakaan keselamatan karena kepadatan yang disebabkan kehadiran banyak tentara dan
+            keluarga mereka. Meski demikian, agensi meminta dukungan dan cinta dari para penggemar hingga hari Jaehyun menyelesaikan
+            tugas militernya dan kembali dalam keadaan sehat. Sebagai informasi, Jaehyun NCT wamil pada usia 27 tahun. Sebelumnya,
+            Taeyong lebih dulu memulai wamil pada April 2024. Jika Jaehyun dijadwalkan berangkat wamil pada 4 November 2024,
+            diperkirakan ia akan kembali pada 3 Mei 2026. Namun, masa wamil bervariatif tergantung unit tempat mereka bertugas.
+        </item>
+        <item>BUDDYs, waktunya selebrasi! GFRIEND akan reuni di awal tahun 2025 untuk sebuah proyek istimewa. Tahun 2025 nanti GFRIEND
+            akan merayakan ulang tahun debut ke-10 mereka. Untuk itu SinB, Eunha, Umji, Sowon, Yerin, dan Yuju akan kumpul lagi
+            beraktivitas sebagai grup. Manajemen Source Music, yang kini dibeli HYBE dan jadi salah satu member HYBE Labels, akan
+            kembali memegang kendali buat proyek ini. Dilaporkan JoyNews24 pada Rabu (24/9/2024), GFRIEND akan reuni pada bulan
+            Januari 2025. Manajemen hanya menyebut proyek ini sebagai perayaan dan kado buat fans tanpa memberikan detailnya.
+            "Januari tahun depan, GFRIEND berencana untuk menyapa fans dengan proyek untuk perayaan ulang tahun ke-10 debut mereka.
+            Para member berharap bisa memberikan kado spesial sebuah kenangan untuk BUDDY dengan berkumpul bersama dan merealisasikan
+            proyek ini," kata Source Music dalam pernyataan resmi mereka. GFRIEND debut di bawah manajemen Source Music
+            (sebelum diakuisisi HYBE) pada tahun 2015. Lagu debut mereka Glass Bead mencuri perhatian karena banyak hal. Nggak cuma
+            konsep yang mereka hadirkan tetapi juga detail koreografi yang mengingatkan publik pada debut SNSD. Setelah itu mereka
+            kembali dengan lagu berjudul Me Gustas Tu yang jadi viral. Dalam sebuah penampilan membawakan lagu itu, GFRIEND jatuh-bangun
+            di panggung karena terpeleset akibat hujan. Karier grup ini mulai meroket dari sana. Puncak popularitas GFRIEND ditandai
+            dengan kesuksesan lagu ROUGH. Lagu ini menjadi nomor #1 di acara musik TV selama belasan minggu kala itu. Di tahun 2021,
+            GFRIEND memutuskan keluar dari Source Music dan grup ini resmi dibubarkan. Para member kini bernaung di agensi yang
+            berbeda-beda. Tiga member GFRIEND yakni SinB, Eunha, dan Umji debut ulang dengan nama VIVIZ. Setelah GFRIEND bubar,
+            Source Music lalu mendebutkan LE SSERAFIM.
+        </item>
+        <item>Tiga member BLACKPINK yang masih aktif bermusik: Jennie, Lisa, dan Rosé akhirnya menemukan label partner buat promosi
+            global. Setelah Jennie gabung Columbia, Lisa dengan RCA Records, Rosé mengumumkan partnership dengan Atlantic Records pada
+            Jumat (27/9/2024). Atlantic Records merupakan label di bawah Warner Music Group. Perusahaan rekaman ini punya roster artis
+            yang luar biasa mulai dari Kelly Clarkson, Charlie Puth, Jason Mraz, Coldplay, Lizzo, Cardi B, Bruno Mars, Missy Elliot,
+            hingga Sia. Rosé disambut Atlantic Records lewat sebuah pengumuman ci X resmi mereka. Pelantun On The Ground itu diberi
+            buket bunga mawar merah yang diterima dengan penuh senyum. "Welcome to the family, Rosé," tulis mereka diakhiri dengan
+            emoji hati. Atlantic Records bakal nge-handle promosi musik Rosé di Amerika Serikat. Dengan begitu kesempatannya untuk
+            masuk chart Billboard hingga masuk nominasi di penghargaan musik AS akan lebih besar. Saat ini Rosé bernaung di bawah
+            manajemen THEBLACKLABEL yang didirikan Teddy Park. Dia satu manajemen dengan Jeon Somi hingga girlband baru MEOVV yang
+            sedang viral. Sebenarnya bergabungnya Rosé dengan Atlantic Records sudah dikasih clue sebelumnya. Yaitu lewat sebuah lagu
+            cover milik Coldplay, Viva La Vida, yang diputar di trailer drama Apple TV+ Pachinko season 2.Tapi saat itu THEBLACKLABEL
+            atau Rosé nggak banyak bicara soal cover lagu tersebut. Kabar ini keburu ketutupan dengan pengumuman rencana comeback Rosé
+            dengan musik terbarunya. Setelah aktivitas bersama BLACKPINK, Rosé resmi debut sebagai solois lewat album single berjudul
+            On The Ground di tahun 2021. Album ini berisi dua track termasuk On The Ground dan Gone.
+        </item>
+        <item>BabyMonster, baru-baru ini menarik perhatian para pecinta musik dan K-Pop secara global karena menjadi girl group asal
+            Korea pertama yang tampil di Formula 1 Grand Prix Singapura Entertainment Concert pada Sabtu (21/9) pada Padang Stage.
+            Formula 1 Singapura sendiri merupakan salah satu balapan yang paling dinanti dalam kalender F1, karena terkenal dengan
+            suasana malam yang spektakuler dan sirkuitnya yang menantang. Acara ini berlangsung selama tiga hari mulai tanggal 20
+            hingga 22 september di sirkuit Marina Bay, Singapura.Adanya penampilan BabyMonster di acara ini menjadi perhatian tersendiri
+            bagi para penonton. Ditambah lagi dengan mereka yang membawakan beberapa lagu hits nya seperti Sheesh dan Forever.
+            BabyMonster, yang dibentuk dibawah naungan YG Entertainment, terdiri dari tujuh anggota berbakat dan penuh energi. Sejak
+            awal debutnya pada 2023 yang lalu, lagu-lagu mereka selalu mendapatkan top chart musik baik di Korea maupun global.
+            Meskipun masih disebut sebagai rookie, namun BabyMonster sudah cukup banyak melakukan tur fan meeting di berbagai negara.
+            Dan tak jarang, banyak penggemar yang menjuluki mereka sebagai adik BlackPink karena sama sama berada di bawah naungan YG
+            Entertainment dan penampilannya yang selalu menarik perhatian. Selama awal debutnya yang kurang dari satu tahun ini,
+            BabyMonster juga telah memiliki penggalaman berkolaborasi dengan artis internasional yaitu Charlie Puth dengan lagu
+            berjudul Like That, yang merupakan sebuah lagu hadiah dari Charlie Puth karena salah satu member BabyMonster yaitu Ahyeon
+            sempat melakukan cover lagu Charlie pada sesi evaluation nya sehingga lagu tersebut menjadi viral.
+        </item>
+        <item>Agensi Kpop ADOR telah menolak permintaan girl group NewJeans untuk mengangkat kembali Min Hee Jin sebagai CEO agensi Kpop
+            tersebut, sembari mengumumkan rencana untuk mempertahankan eksekutif musik tersebut sebagai anggota dewan direksi. Pada Rabu
+            (25/9/2024), anak perusahaan HYBE, ADOR, mengumumkan dalam sebuah pernyataan, melalui Korea JoongAng Daily dan The Korea Herald,
+            bahwa mereka “tidak dapat menerima permintaan” untuk mengangkat kembali Min Hee Jin sebagai CEO agensi Kpop tersebut.Sebagai
+            gantinya, perusahaan telah “memutuskan untuk mengadakan rapat pemegang saham untuk memberikan suara agar Min Hee Jin tetap berada
+            di dewan direksi”. Pengumuman ADOR hari ini muncul setelah NewJeans mengadakan siaran langsung kejutan di YouTube yang menyerukan
+            HYBE untuk mengembalikan Min Hee Jin sebagai CEO. Menurut para anggota, siaran langsung tersebut diadakan tanpa sepengetahuan
+            HYBE dan rekamannya telah dihapus. "Pemberhentian mantan CEO Min Hee Jin merupakan pelanggaran perjanjian pemegang saham dan
+            bertentangan dengan keputusan pengadilan untuk melarang pelaksanaan hak suara," kata perwakilannya dalam sebuah pernyataan saat
+            itu. Sebelum siaran langsung kuintet tersebut, NewJeans menyampaikan dukungan untuk Min selama pidato penerimaan penghargaan
+            mereka di The Fact Music Awards awal bulan ini. 6Sebelumnya, tiga anggota girl group tersebut menyuarakan rasa frustrasi mereka
+            atas perseteruan yang sedang berlangsung antara ADOR dan HYBE dalam unggahan daring.
+        </item>
+        <item>Kabar mengejutkan datang dari boy group Korea Selatan, THE BOYZ yang saat ini tengah dikabarkan akan hengkang dari agensi IST
+            Entertainment. Setelah 7 tahun debut, sebelas anggota THE BOYZ saat ini dikabarkan tidak memperpanjang kontrak mereka dan sedang
+            mencari agensi yang baru. Keputusan ini tentunya mengejutkan banyak penggemar, mengingat THE BOYZ baru saja mengumumkan akan
+            comeback dengan album terbaru. Kabar bahwa THE BOYZ akan meninggalkan IST Entertainment disampaikan oleh salah satu media Korea,
+            TenAsia pada Senin (23/9/2024). Dalam laporan TenAsia juga menyampaikan bahwa kontrak eksklusif THE BOYZ akan berakhir pada
+            pertengahan bulan Desember mendatang. Saat ini, sebelas member THE BOYZ dikabarkan sedang mencari ‘rumah’ baru yang lebih selaras
+            dengan visi dan misi mereka dalam bermusik. Meskipun kemungkinan berpisah dengan agensi lama, semangat kebersamaan bagi THE BOYZ
+            untuk tetap bersama sangatlah kuat. Mereka dapat membuktikan bahwa ikatan kekeluargaan mereka jauh lebih kuat dari sekadar kontrak
+            kerja. Pada hari yang sama, IST Entertainment ikut memberikan tanggapan terkait beredarnya berita THE BOYZ yang memutuskan untuk
+            hengkang dari agensi. Dilansir dari News1, IST Entertainment memberikan pernyataan singkat dengan menegaskan bahwa pihak agensi
+            dan member sedang berdiskusi kembali terkait kontrak kerjasama grup. “Untuk saat ini, kontrak eksklusif kami (agensi) dengan THE
+            BOYZ belum resmi berakhir. Kami akan berencana untuk berdiskusi lebih lanjut dengan para member (THE BOYZ),” ungkap IST
+            Entertainment. Selain itu, banyak dari penggemar ikut berspekulasi apakah nama grup yang menjadi trademark THE BOYZ akan tetap
+            bisa dibawa pada saat pindah agensi. Mengingat nama THE BOYZ telah didaftarkan oleh agensi IST Entertainment sebagai merek dagang
+            resmi. Di tengah huru-hara perihal kontrak, THE BOYZ saat ini tengah disibukkan dengan konser tur dunia kedua mereka. Grup
+            pelantun lagu ‘Nectar’ ini juga dikabarkan akan merilis album terbaru mereka pada akhir bulan Oktober mendatang. Untuk para The-B
+            jangan lupa untuk tetap terus dukung THE BOYZ, ya!
+        </item>
+        <item>Kabar mengejutkan datang dari salah satu member grup Kpop Red Velvet, Joy. Ia dikabarkan bakal hengkang dari agensi yang selama
+            ini membesarkam namanya, SM Entertainment. Mengutip dari Herald Pop, Joy Red Velvet saat ini sedang mendiskusikan perpanjangan
+            kontrak dengan SM Entertainment. Kabar tersebut mulai santer terdengar sejak 21 September 2024. Menanggapi hal ini, SM Entertainment
+            mengatakan bahwa pihaknya sedang mendiskusikan hal ini dengan sang artis. Terkait apa pun hasil akhirnya, Joy kemungkinan bakal
+            tetap menjadi bagian dari anggota Red Velvet. Sebagai informasi, Joy memulai debutnya dengan Red Velvet pada Agustus 2014. Selama
+            10 tahun berkarier, ia telah aktif di berbagai bidang, seperti drama dan hiburan. Setiap anggota Red Velvet debut pada waktu yang
+            berbeda. Hal ini menyebabkan waktu perpanjangan kontrak setiap member berbeda. Sebelumnya, Seulgi telah menandatangani kontrak
+            dengan SM Entertainment pada Agustus tahun lalu. Sementara itu, berita tentang perpanjangan kontrak Irene diumumkan pada Februari
+            tahun ini. Adapun tiga anggota lainnya, Joy, Wendy, dan Yeri masih belum diumumkan kelanjutan kontraknya. Saat ini, SM mengumumkan
+            sedang mendiskusikan perpanjangan kontrak dengan Joy. Sementara itu, Red Velvet melakukan tur fancon ke lima wilayah di Asia. Tur
+            tersebut dimulai dengan pertunjukan di Seoul pada 3 dan 4 Agustus 2024. Konser dilanjutkan ke Bangkok, Jakarta, Manila, dan Macau.
+            Tur fancon Red Velvet di Jakarta telah digelar pada 7 September 2024. Konser terakhirnya yang dijadwalkan di Macau bakal digelar
+            pada 28 September 2024. Adapun untuk merayakan anniversary debut yang ke-10 tahun, Red Velvet telah merilis single baru berjudul
+            Sweet Dreams pada 1 Agustus 2024. Setelah 10 tahun berkarya, para penggemar berharap Red Velvet masih akan terus ada dengan lima
+            anggotanya, yakni Irene, Seulgi, Wendy, Joy, dan Yeri.
+        </item>
+        <item>Jennie BLACKPINK akhirnya resmi mengumumkan tanggal pasti untuk comeback solonya bulan depan. Ia bakal merilis karya baru
+            pada 11 Oktober 2024. Idol Kpop ini akan segera merilis musik baru dan bekerja sama dengan Columbia Records untuk proyek kali
+            ini. Tanggal resmi comeback-nya ini dibocorkan melalui serangkaian gambar seperti teka-teki melalui portal resmi Jennie
+            BLACKPINK. Ketika dirakit, gambar-gambar itu mengungkapkan foto Jennie yang sedang berjalan. Pada sisi kanan, tertulis nomor
+            1011 pada jalan yang membuat penggemar berspekulasi terkait tanggal comeback solo Jennie.Sebelumnya, Jennie telah memberi
+            bocoran melalui video singkat saat dirinya menempelkan poster bertuliskan Calling All Pretty Girls. Masih dengan pakaian
+            yang sama, Jennie kemudian merilis foto terbaru yang menunjukkan bocoran tanggal comeback mendatang. Sebagai informasi,
+            Jennie memulai debutnya sebagai idol Kpop bersama Lisa, Jisoo, dan Rosé di BLACKPINK pada 2016. Grup ini menjadi salah
+            satu grup perempuan terkemuka di dunia. Jennie menjadi anggota BLACKPINK pertama yang memulai karier solo dengan merilis
+            single hitnya, SOLO. Pada 2023, ia memulai debut single You and Me. Jennie juga sempat berkolaborasi dengan Zico di lagu Spot.
+            Lagu tersebut berhasil memuncaki tangga lagu Korea Selatan. Ia juga telah membuat entri pertamanya di Billboard Hot 100
+            dengan fiturnya di lagu One of the Girls. Untuk comeback solo, Jennie telah meluncurkan perusahaannya sendiri, ODDATELIER
+            (OA Entertainment) pada akhir 2023. Selanjutnya, ia secara resmi telah bermitra dengan Columbia Records untuk proyek solonya
+            yang akan datang. Terkait proyek solo, Jennie sebelumnya telah mengindikasikan bahwa dirinya sedang mengerjakan rekaman yang
+            akan segera dirilis. Selain itu, rumor menunjukkan bahwa albumnya kemungkinan akan dirilis akhir 2024.Jennie kini bakal
+            kembali merilis karya baru untuk para penggemar dalam comeback solo pada 11 Oktober. Sejauh ini, belum ada detail tambahan
+            tentang postingan yang telah dibagikan.
+        </item>
+        <item>Irene Suwandi, nama yang sedang menjadi sorotan di media sosial, dikabarkan siap membuat debutnya di industri musik Korea
+            Selatan sebagai idol Kpop.  Sebagai seorang TikToker yang dikenal memiliki 8,6 juta pengikut, keputusan Irene untuk bergabung
+            dengan girl group baru, TD, tentu menarik perhatian banyak orang.  Sebelumnya, Irene telah membagikan kecintaannya terhadap dunia
+            tari, bahkan aktif sebagai penari sejak masih kecil. Setelah berlatih keras selama setahun terakhir sebagai trainee di sebuah
+            agensi Kpop, Irene siap untuk memperluas karirnya di industri musik.Irene bukanlah satu-satunya talenta Indonesia yang mencoba
+            peruntungannya di Kpop. Sebelumnya, Dita Karang telah berhasil debut sebagai member girl group, Secret Number, sementara Zayyan
+            dan Viankha Jesslyn juga telah memulai karir mereka sebagai idol.Meski demikian, belum ada informasi resmi mengenai jadwal debut
+            Irene bersama TD atau detail mengenai anggota lain yang akan bergabung dalam girl group tersebut.Fans Irene dan penggemar Kpop
+            secara umum tentu sangat menantikan penampilan perdananya di panggung musik Korea, dan banyak yang berharap ia akan menjadi
+            bintang baru di kancah internasional.
+        </item>
+    </string-array>
+
+    <string-array name="data_from">
+        <item>Rubic News</item>
+        <item>Liputan 6</item>
+        <item>DetikPop</item>
+        <item>DetikPop</item>
+        <item>JawaPos.com</item>
+        <item>Kompas.com</item>
+        <item>TribunMataraman.com</item>
+        <item>Liputan 6</item>
+        <item>Liputan 6</item>
+        <item>BeritaJatim.com</item>
+    </string-array>
+
+    <string-array name="data_writer">
+        <item>Thalitta Wahida Rahmah</item>
+        <item>Switzy Sabandar</item>
+        <item>Atmi Ahsani Yusron</item>
+        <item>Atmi Ahsani Yusron</item>
+        <item>Rida Luthfiyah</item>
+        <item>Andika Aditia</item>
+        <item>eben haezer</item>
+        <item>Switzy Sabandar</item>
+        <item>Switzy Sabandar</item>
+        <item>Mandalika Naurah</item>
+    </string-array>
+
+    <string-array name="data_release">
+        <item>Kamis, 26 September 2024</item>
+        <item>Jumat, 27 September 2024</item>
+        <item>Rabu, 25 September 2024</item>
+        <item>Jumat, 27 September 2024</item>
+        <item>Senin, 23 September 2024</item>
+        <item>Kamis, 26 September 2024</item>
+        <item>Selasa, 24 September 2024</item>
+        <item>Senin, 23 September 2024</item>
+        <item>Jumat, 27 September 2024</item>
+        <item>Jumat, 19 April 2024</item>
+    </string-array>
+</resources>

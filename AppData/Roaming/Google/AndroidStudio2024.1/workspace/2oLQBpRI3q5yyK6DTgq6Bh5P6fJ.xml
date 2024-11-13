@@ -1,0 +1,69 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="MyCamera" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyCamera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/haliz/AndroidStudioProjects/starter-project-online-image-classification}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33025682" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3306092" />
+      <window_info active="true" anchor="right" id="Notifications" order="0" visible="true" weight="0.33025682" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <unified_weights bottom="0.3306092" left="0.33025682" right="0.33025682" />
+    </layoutV2>
+    <recentWindows>
+      <value>Build</value>
+      <value>Notifications</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="70" key="#Gradle" timestamp="1730646269391">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="274" y="70" key="#Gradle/0.0.1280.720@0.0.1280.720" timestamp="1730646269391" />
+  </component>
+</project>
